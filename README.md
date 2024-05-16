@@ -14,10 +14,8 @@
 
 ## Deployment Methods
 
-### Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/MediaToTelegraphLink-TeLeTiPs)
-
+### Herok
+<a target="_blank" href="https://render.com/depoloy?type=git&repositoer=github.com/teletips/MediaToTelegraphLink-TeLeTiPs&branch=main&name=tmabot"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 ## Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
